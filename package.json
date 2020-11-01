@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ijmdev.github.io/robofriends/",
+  "homepage": "https://ijmdev.github.io/robofriends",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.5",
